@@ -346,3 +346,13 @@ ul {
   align-items: flex-start; /* Align items to the top */
   gap: 200px; /* Adjust the gap between the form and the image */
 }
+.footertext{
+  margin: 0;
+  padding: 0 3%;
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  color: white;
+  height: 40px;
+}
